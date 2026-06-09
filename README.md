@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yahye Ali</h1>
-<h3 align="center">A passionate frontend developer from Hargeisa Somaliland</h3>
+<h3 align="center">A passionate web developer from Hargeisa Somaliland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaxyerosi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="yaxyerosi-dev" /> </p>
 
