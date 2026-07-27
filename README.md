@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Ract, React Native, Javascript, Tailwinds css**
 
+- See My Portfolio **https://portfolio-pink-two-58.vercel.app/**
+
 - 📫 How to reach me **yaxyerosi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
